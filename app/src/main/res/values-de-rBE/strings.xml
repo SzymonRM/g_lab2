@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">z2</string>
+    <string name="z1">z1</string>
+    <string name="moj_tekst">" Hallo Welt"</string>
+    <string name="z2">z2</string>
+    <string name="z3">z3</string>
+    <string name="z4">z4</string>
+    <string name="z5">z5</string>
+</resources>
